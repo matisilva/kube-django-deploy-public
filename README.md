@@ -56,6 +56,4 @@ La estructura base del proyecto será la siguiente:
             redis.yml
 ```
 
-Veamos una descripción rasgos generales de cada modulo:
-
 Su tarea será completar con el código correspondiente cada .yml de la carpeta kubernetes y el docker-compose.yml de la carpeta apps
